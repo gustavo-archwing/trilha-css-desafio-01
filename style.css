@@ -23,7 +23,7 @@ body {
  
   .banner {
     background-color: rgba(0, 0, 0, 0.6);
-    background-image: url('https://github.com/gustavo-archwing/trilha-css-desafio-01/blob/main/assets/images/banner.png?raw=true');
+    background-image: url('../images/banner.png');
     background-size: cover;
     height: 600px;
     padding-top: 60px;
@@ -101,7 +101,7 @@ body {
   
   #transform-world {
     height: 560px;
-    background-image: url("https://github.com/gustavo-archwing/trilha-css-desafio-01/blob/main/assets/images/woman-code.png?raw=true");
+    background-image: url("../images/woman-code.png");
     background-size: cover;
     background-attachment: fixed;
     padding: 100px;
